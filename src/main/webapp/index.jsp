@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Welcome to java world n kubernetes!!</h2>
+<h2>Sample java projects deploy!!</h2>
 </body>
 </html>
